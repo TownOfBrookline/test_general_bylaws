@@ -229,8 +229,11 @@ within the town and among town officers and committees.
 
 ### SECTION 3.12.6 PLANNING BOARD
 
-The Board of Selectmen shall appoint five residents to serve on the
-Planning Board for five year staggered terms.
+The Board of Selectmen shall appoint seven residents to serve on the
+Planning Board for five year staggered terms. At least one of the
+appointees must be qualified for such appointment by virtue or relevant
+and significant experience or training in the field of environmental or
+urban planning.
 
 The Planning Board is established under G.L.c. 41, §81A, and shall
 perform and discharge all of the statutory powers and duties required by
