@@ -19,6 +19,10 @@ made by mail to the Town Meeting Member's address on file with the Town
 Clerk's office. No such notification shall be necessary where a Special
 Town Meeting has been called by a citizen's petition.
 
+In lieu of the above mailing requirement, the Board of Selectmen may
+send the required notice electronically to any Town Meeting Member who
+so requests.
+
 ### SECTION 2.1.3 FILING OF ARTICLES
 
 All Articles for insertion in the Warrant for any Annual or Special Town
