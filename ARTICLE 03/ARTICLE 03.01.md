@@ -10,6 +10,18 @@ staggered terms.
 The Selectmen shall exercise general supervision over all matters
 affecting the general and financial interest and welfare of the town.
 
+### SECTION 3.1.2.A POLICE AND FIRE COMMISSIONERS
+
+In accordance with and to implement the Selectmen's responsibilities
+under applicable laws, the Selectmen shall bear the titles “Police
+Commissioners” and “Fire Commissioners” when exercising their
+responsibilities relating to the town's Police Department and Fire
+Department, respectively. The Selectmen's responsibilities and authority
+are not enhanced, diminished, or altered in any fashion from those that
+exist under applicable Laws by virtue of bearing such titles, nor shall
+the Board be involved in the day-to-day administration, operations or
+management of the Police and Fire Departments.
+
 ### SECTION 3.1.3 LITIGATION AND CLAIMS
 
 The Selectmen may institute, prosecute, defend, compromise and settle
