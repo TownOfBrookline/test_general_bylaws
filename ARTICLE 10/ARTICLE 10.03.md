@@ -79,10 +79,9 @@ General Laws, Chapter 40, section 21d.
   Article 8.23   Tobacco Control
                     Section 8.23.5
                       Violations & Penalties
-                      Part (A)                                 $ 50.00
-                      Part (B)                                 $100.00
-                      Part (C)                                 $200.00
-                      Part (D)                                 $100.00
+
+  For each violation under Article 8.23 - Three Hundred
+  Dollars ($300.00).
 
   Article 8.24   Water Supply Emergencies
                    Section 8.24.6
