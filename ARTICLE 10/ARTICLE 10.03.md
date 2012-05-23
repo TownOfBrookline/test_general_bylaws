@@ -64,6 +64,9 @@ General Laws, Chapter 40, section 21d.
 
   Article 8.3    Dwelling Houses Used In Common                $100.00
 
+  Article 8.5    Disorderly Behavior
+                   Section 8.5.5 Specific Penalty              $100.00
+
   Article 8.6    Dog Control
                  Section 8.6.9 Penalty
                     First Violation                            $15.00
