@@ -14,7 +14,16 @@ between sunrise and sunset after such snow and ice has come
 upon such sidewalk, and shall maintain said portion of
 sidewalk in a non-slippery condition by application(s) of
 sand and/or melting agents as may be necessary for this
-purpose.
+purpose. Depending upon the severity of a storm and other
+factors, the Commissioner of Public Works may delay the
+period for compliance of this by-law. In the event of
+initiating a compliance delay, the Commissioner of Public
+Works shall post a notice prominently on the Town of
+Brookline’s Internet home page and make other good faith
+efforts to notify the public including, but not limited
+to, social media outlets, the cable access television
+station, e-mail list serves and the emergency telephone
+notification system.
 
 ### SECTION 7.7.2 MULTI-FAMILY DWELLINGS
 
@@ -31,11 +40,20 @@ hours between sunrise and sunset after such snow and ice
 has come upon such sidewalk, and shall maintain said
 portion of sidewalk in a non-slippery condition by
 application(s) of sand and/or melting agents as may be
-necessary for this purpose.
+necessary for this purpose. Depending upon the severity of
+a storm and other factors, the Commissioner of Public Works
+may delay the period for compliance of this by-law. In the
+event of initiating a compliance delay, the Commissioner of
+Public Works shall post a notice prominently on the Town of
+Brookline’s Internet home page and make other good faith
+efforts to notify the public including, but not limited to,
+social media outlets, the cable access television station,
+e-mail list serves and the emergency telephone notification
+system.
 
 ### SECTION 7.7.3 GENERAL REQUIREMENT
 
-Except as set forth in Subsections (a) and (b) above, the
+Except as set forth in Subsections 7.7.1 and 7.7.2 above, the
 owner, or his/her agent, of any land abutting upon or
 contiguous to a sidewalk of a street shall cause said
 sidewalk to be maintained in a non-slippery condition
@@ -46,7 +64,16 @@ of the cessation of each storm that results in the
 accumulation of snow and/or ice on such sidewalk, and shall
 maintain said portion of sidewalk in a non-slippery
 condition by application(s) of sand and or melting agents
-as may be necessary for this purpose. The Commissioner of
+as may be necessary for this purpose. Depending upon the
+severity of a storm and other factors, the Commissioner of
+Public Works may delay the period for compliance of this
+by-law. In the event of initiating a compliance delay, the
+Commissioner of Public Works shall post a notice prominently
+on the Town of Brookline’s Internet home page and make other
+good faith efforts to notify the public including, but not
+limited to, social media outlets, the cable access television
+station, e-mail list serves and the emergency telephone
+notification system.  The Commissioner of
 Public Works, or his/her designee, may grant a waiver from
 the terms of this Section 7.7.3 for good cause.
 
@@ -61,14 +88,16 @@ placed ice or snow upon any sidewalk of the Town.
 
 ### SECTION 7.7.5 PENALTIES
 
-The violation of any provision of Sections 7.7.1 and 7.7.2
-of this Article 7.7 shall be punishable by a fine not
-exceeding One Hundred ($100.) Dollars for each offense. In
-any fiscal year, the first violation of any provision of
-ARTICLE 7.3 shall be noted with a Warning. The second and
-each subsequent violation, in any fiscal year, of said
-Article 7.3 shall be punishable by a fine not exceeding
-Twenty-Five ($25.00) Dollars for each violation.
+Any person or entity who violates any provision, condition, or
+requirement of Section 7.7.1 or 7.7.2 of this Article 7.7
+shall be liable to the Town in the amount of $100.00 for the
+first violation, $150.00 for the second violation, and $200.00
+for each subsequent violation.  Any person or entity who
+violates any provision, condition, or requirement of Section
+7.7.3 of this Article 7.7 shall be liable to the Town in the
+amount of $50.00 for the first violation and $100.00 for each
+subsequent violation.  Each day that a violation exists shall
+be considered a separate and distinct violation.
 
 ### SECTION 7.7.6 ANNUAL REPORT
 
